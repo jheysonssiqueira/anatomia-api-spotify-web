@@ -1,6 +1,6 @@
 # 🎧 Mapeando os Bastidores da Web: Anatomia de uma API (Spotify Web)
 
-**Desenvolvedor:** Jheyson Siqueira
+**Desenvolvedor:** Jheyson Siqueira  
 **Tecnologias Analisadas:** Protocolo HTTP/HTTPS, APIs RESTful e GraphQL, JSON, Google Chrome DevTools, Diagramação estrutural.
 
 ## 1. Resumo do Projeto
@@ -31,6 +31,8 @@ Abaixo estão as capturas de rede comprovando a auditoria dos dados trafegados:
 ## 4. Fluxograma de Comunicação Cliente-Servidor
 
 O diagrama abaixo representa visualmente o ciclo de vida de uma consulta complexa de busca (POST em ambiente GraphQL) dentro do Spotify:
+
+![Fluxograma de Comunicação](fluxograma_comunicacao_spotify.jpg)
 
 ## 5. Parecer Técnico Consolidado
 A análise comprovou a eficiência de três pilares fundamentais no back-end do Spotify:
