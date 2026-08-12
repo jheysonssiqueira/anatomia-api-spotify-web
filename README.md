@@ -32,7 +32,7 @@ Abaixo estão as capturas de rede comprovando a auditoria dos dados trafegados:
 
 O diagrama abaixo representa visualmente o ciclo de vida de uma consulta complexa de busca (POST em ambiente GraphQL) dentro do Spotify:
 
-![Fluxograma de Comunicação](fluxograma_comunicacao_spotify.jpg)
+![Fluxograma de Comunicação](fluxograma_comunicacao_spotify.png)
 
 ## 5. Parecer Técnico Consolidado
 A análise comprovou a eficiência de três pilares fundamentais no back-end do Spotify:
